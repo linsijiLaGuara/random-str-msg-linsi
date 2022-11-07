@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-linsi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linsijiLaGuara/random-str-msg-linsi.git"
+  },
+  "keywords": [],
+  "author": "linsiji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linsijiLaGuara/random-str-msg-linsi/issues"
+  },
+  "homepage": "https://github.com/linsijiLaGuara/random-str-msg-linsi#readme",
+  "bin": {
+    "random-str-msg-linsi": "./bin/global.js"
+   },
+  "preferGlobal": true
+}
