@@ -11,7 +11,7 @@ npm install -g random-str-msg-linsi
 # Usage
 
 ```bash
- random-str-msg
+ random-str-msg-linsi
 ```
 
 # Contributing
